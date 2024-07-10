@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\elchin\\Desktop\\CodeLesson\\MultilangApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{222C1F2E-2513-4408-BA3D-DCDE22032CE9}|MultilangApplication\\MultilangApplication.csproj|c:\\users\\elchin\\desktop\\codelesson\\multilangapplication\\multilangapplication\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{222C1F2E-2513-4408-BA3D-DCDE22032CE9}|MultilangApplication\\MultilangApplication.csproj|solutionrelative:multilangapplication\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{222C1F2E-2513-4408-BA3D-DCDE22032CE9}|MultilangApplication\\MultilangApplication.csproj|c:\\users\\elchin\\desktop\\codelesson\\multilangapplication\\multilangapplication\\resources\\sharedresource.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{222C1F2E-2513-4408-BA3D-DCDE22032CE9}|MultilangApplication\\MultilangApplication.csproj|solutionrelative:multilangapplication\\resources\\sharedresource.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{222C1F2E-2513-4408-BA3D-DCDE22032CE9}|MultilangApplication\\MultilangApplication.csproj|c:\\users\\elchin\\desktop\\codelesson\\multilangapplication\\multilangapplication\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{222C1F2E-2513-4408-BA3D-DCDE22032CE9}|MultilangApplication\\MultilangApplication.csproj|solutionrelative:multilangapplication\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{222C1F2E-2513-4408-BA3D-DCDE22032CE9}|MultilangApplication\\MultilangApplication.csproj|c:\\users\\elchin\\desktop\\codelesson\\multilangapplication\\multilangapplication\\resources\\sharedresource.en-us.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{222C1F2E-2513-4408-BA3D-DCDE22032CE9}|MultilangApplication\\MultilangApplication.csproj|solutionrelative:multilangapplication\\resources\\sharedresource.en-us.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{222C1F2E-2513-4408-BA3D-DCDE22032CE9}|MultilangApplication\\MultilangApplication.csproj|c:\\users\\elchin\\desktop\\codelesson\\multilangapplication\\multilangapplication\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{222C1F2E-2513-4408-BA3D-DCDE22032CE9}|MultilangApplication\\MultilangApplication.csproj|solutionrelative:multilangapplication\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{222C1F2E-2513-4408-BA3D-DCDE22032CE9}|MultilangApplication\\MultilangApplication.csproj|c:\\users\\elchin\\desktop\\codelesson\\multilangapplication\\multilangapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{222C1F2E-2513-4408-BA3D-DCDE22032CE9}|MultilangApplication\\MultilangApplication.csproj|solutionrelative:multilangapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{222C1F2E-2513-4408-BA3D-DCDE22032CE9}|MultilangApplication\\MultilangApplication.csproj|c:\\users\\elchin\\desktop\\codelesson\\multilangapplication\\multilangapplication\\localizer\\languageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{222C1F2E-2513-4408-BA3D-DCDE22032CE9}|MultilangApplication\\MultilangApplication.csproj|solutionrelative:multilangapplication\\localizer\\languageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SharedResource.en-US.resx",
+              "DocumentMoniker": "C:\\Users\\elchin\\Desktop\\CodeLesson\\MultilangApplication\\MultilangApplication\\Resources\\SharedResource.en-US.resx",
+              "RelativeDocumentMoniker": "MultilangApplication\\Resources\\SharedResource.en-US.resx",
+              "ToolTip": "C:\\Users\\elchin\\Desktop\\CodeLesson\\MultilangApplication\\MultilangApplication\\Resources\\SharedResource.en-US.resx",
+              "RelativeToolTip": "MultilangApplication\\Resources\\SharedResource.en-US.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-07-10T16:51:58.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SharedResource.resx",
+              "DocumentMoniker": "C:\\Users\\elchin\\Desktop\\CodeLesson\\MultilangApplication\\MultilangApplication\\Resources\\SharedResource.resx",
+              "RelativeDocumentMoniker": "MultilangApplication\\Resources\\SharedResource.resx",
+              "ToolTip": "C:\\Users\\elchin\\Desktop\\CodeLesson\\MultilangApplication\\MultilangApplication\\Resources\\SharedResource.resx",
+              "RelativeToolTip": "MultilangApplication\\Resources\\SharedResource.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-07-10T16:50:46.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\elchin\\Desktop\\CodeLesson\\MultilangApplication\\MultilangApplication\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MultilangApplication\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\elchin\\Desktop\\CodeLesson\\MultilangApplication\\MultilangApplication\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MultilangApplication\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAwwBwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T16:45:57.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\elchin\\Desktop\\CodeLesson\\MultilangApplication\\MultilangApplication\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MultilangApplication\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\elchin\\Desktop\\CodeLesson\\MultilangApplication\\MultilangApplication\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MultilangApplication\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAADwvxYAAACOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-10T16:45:47.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LanguageService.cs",
+              "DocumentMoniker": "C:\\Users\\elchin\\Desktop\\CodeLesson\\MultilangApplication\\MultilangApplication\\Localizer\\LanguageService.cs",
+              "RelativeDocumentMoniker": "MultilangApplication\\Localizer\\LanguageService.cs",
+              "ToolTip": "C:\\Users\\elchin\\Desktop\\CodeLesson\\MultilangApplication\\MultilangApplication\\Localizer\\LanguageService.cs",
+              "RelativeToolTip": "MultilangApplication\\Localizer\\LanguageService.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAswBYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T16:44:27.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\elchin\\Desktop\\CodeLesson\\MultilangApplication\\MultilangApplication\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MultilangApplication\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\elchin\\Desktop\\CodeLesson\\MultilangApplication\\MultilangApplication\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MultilangApplication\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-10T16:43:31.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\elchin\\Desktop\\CodeLesson\\MultilangApplication\\MultilangApplication\\Program.cs",
+              "RelativeDocumentMoniker": "MultilangApplication\\Program.cs",
+              "ToolTip": "C:\\Users\\elchin\\Desktop\\CodeLesson\\MultilangApplication\\MultilangApplication\\Program.cs",
+              "RelativeToolTip": "MultilangApplication\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAAoAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T16:37:02.557Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

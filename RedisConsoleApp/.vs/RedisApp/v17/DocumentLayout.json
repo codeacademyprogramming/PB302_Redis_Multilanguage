@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\elchin\\Desktop\\CodeLesson\\RedisConsoleApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{65E542C8-0AE6-4CFB-BB42-26954F7B5A41}|RedisApiApp\\RedisApiApp.csproj|c:\\users\\elchin\\desktop\\codelesson\\redisconsoleapp\\redisapiapp\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65E542C8-0AE6-4CFB-BB42-26954F7B5A41}|RedisApiApp\\RedisApiApp.csproj|solutionrelative:redisapiapp\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65E542C8-0AE6-4CFB-BB42-26954F7B5A41}|RedisApiApp\\RedisApiApp.csproj|c:\\users\\elchin\\desktop\\codelesson\\redisconsoleapp\\redisapiapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65E542C8-0AE6-4CFB-BB42-26954F7B5A41}|RedisApiApp\\RedisApiApp.csproj|solutionrelative:redisapiapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C761E962-5FAA-4DB1-82B0-105118142EB6}|RedisConsoleApp\\RedisConsoleApp.csproj|c:\\users\\elchin\\desktop\\codelesson\\redisconsoleapp\\redisconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C761E962-5FAA-4DB1-82B0-105118142EB6}|RedisConsoleApp\\RedisConsoleApp.csproj|solutionrelative:redisconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65E542C8-0AE6-4CFB-BB42-26954F7B5A41}|RedisApiApp\\RedisApiApp.csproj|c:\\users\\elchin\\desktop\\codelesson\\redisconsoleapp\\redisapiapp\\redisapiapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{65E542C8-0AE6-4CFB-BB42-26954F7B5A41}|RedisApiApp\\RedisApiApp.csproj|solutionrelative:redisapiapp\\redisapiapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C761E962-5FAA-4DB1-82B0-105118142EB6}|RedisConsoleApp\\RedisConsoleApp.csproj|c:\\users\\elchin\\desktop\\codelesson\\redisconsoleapp\\redisconsoleapp\\redisservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C761E962-5FAA-4DB1-82B0-105118142EB6}|RedisConsoleApp\\RedisConsoleApp.csproj|solutionrelative:redisconsoleapp\\redisservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RedisService.cs",
+              "DocumentMoniker": "C:\\Users\\elchin\\Desktop\\CodeLesson\\RedisConsoleApp\\RedisConsoleApp\\RedisService.cs",
+              "RelativeDocumentMoniker": "RedisConsoleApp\\RedisService.cs",
+              "ToolTip": "C:\\Users\\elchin\\Desktop\\CodeLesson\\RedisConsoleApp\\RedisConsoleApp\\RedisService.cs",
+              "RelativeToolTip": "RedisConsoleApp\\RedisService.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAA1wAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T16:24:25.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\elchin\\Desktop\\CodeLesson\\RedisConsoleApp\\RedisConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "RedisConsoleApp\\Program.cs",
+              "ToolTip": "C:\\Users\\elchin\\Desktop\\CodeLesson\\RedisConsoleApp\\RedisConsoleApp\\Program.cs",
+              "RelativeToolTip": "RedisConsoleApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T16:22:53.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RedisApiApp",
+              "DocumentMoniker": "C:\\Users\\elchin\\Desktop\\CodeLesson\\RedisConsoleApp\\RedisApiApp\\RedisApiApp.csproj",
+              "RelativeDocumentMoniker": "RedisApiApp\\RedisApiApp.csproj",
+              "ToolTip": "C:\\Users\\elchin\\Desktop\\CodeLesson\\RedisConsoleApp\\RedisApiApp\\RedisApiApp.csproj",
+              "RelativeToolTip": "RedisApiApp\\RedisApiApp.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-10T16:19:34.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\elchin\\Desktop\\CodeLesson\\RedisConsoleApp\\RedisApiApp\\Program.cs",
+              "RelativeDocumentMoniker": "RedisApiApp\\Program.cs",
+              "ToolTip": "C:\\Users\\elchin\\Desktop\\CodeLesson\\RedisConsoleApp\\RedisApiApp\\Program.cs",
+              "RelativeToolTip": "RedisApiApp\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T16:04:13.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ValuesController.cs",
+              "DocumentMoniker": "C:\\Users\\elchin\\Desktop\\CodeLesson\\RedisConsoleApp\\RedisApiApp\\Controllers\\ValuesController.cs",
+              "RelativeDocumentMoniker": "RedisApiApp\\Controllers\\ValuesController.cs",
+              "ToolTip": "C:\\Users\\elchin\\Desktop\\CodeLesson\\RedisConsoleApp\\RedisApiApp\\Controllers\\ValuesController.cs",
+              "RelativeToolTip": "RedisApiApp\\Controllers\\ValuesController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T16:03:01.814Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
